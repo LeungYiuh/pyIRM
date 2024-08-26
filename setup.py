@@ -15,6 +15,6 @@ setup(
                       'PyQt5',
                       'scipy',
                       'numpy',
-                      'sklearn',
+                      'sklearn-learn',
                       'lmfit'],
 )
